@@ -5,7 +5,7 @@ function Header(props) {
         <header>
             <h1>
                 {/* <HighlightIcon /> */}
-                Keeper</h1>
+                Note Keep</h1>
                  
 
         </header>
